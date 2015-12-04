@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.phonegap.example"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>SubTematik 1</name>
+
+    <description>
+       E-Learning Tematik Kelas 2 SD Sub Tematik 1 Hidup Rukun di Rumah, By: Diah Arisanti, Nurul Mahfuzh, Senna Alde S.(TI 41) STTAR MALANG 
+    </description>
+
+    <author href="" email="nmahfuzh@gmail.com">
+        Nurul Mahfuzh,Diah Arisanti,Senna Alde
+    </author>
+    <preference name="orientation" value="portrait" />
+    <preference name="fullscreen" value="true" />
+    
+    <gap:plugin name="org.apache.cordova.media" />
+</widget>
